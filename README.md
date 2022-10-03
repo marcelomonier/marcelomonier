@@ -1,7 +1,7 @@
-### Hey, I'm Monier! (Data Scientist)👋
+### Hey, I'm Monier! 👋
 
 <!--
-**marcelomonier/marcelomonier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**marcelomonier/marcelomonier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 
 - :technologist: Professor at [IFMA](https://portal.ifma.edu.br)
 - :technologist: Data Scientist and Co-founder at BetaDev
