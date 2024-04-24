@@ -8,4 +8,7 @@
 - :two_hearts: In love with Python, PySpark, Spark, SQL, DBT and Machine Learning
 
 
+![marcelomonier's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelomonier&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomonier&layout=compact&langs_count=8)
 
