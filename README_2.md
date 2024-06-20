@@ -37,6 +37,9 @@ Experience in data engineering, data analysis, and machine learning with a Data 
 
 [<img align="left" alt="databrciks_fundamental" width="60" src="https://templates.images.credential.net/16509948849242752807044385742422.png" />](https://credentials.databricks.com/91c0c105-98ad-4a81-9b06-26552b157cd7)
 
+[<img align="left" alt="Docker" width="60" src="https://api.badgr.io/public/assertions/SpUKlcOuSESxFUoS4VlSzA/image" />](https://badgr.com/public/assertions/SpUKlcOuSESxFUoS4VlSzA?identity__email=marcelomonierdeveloper@gmail.com)
+
+
 <br>
 <br />
 <br />
