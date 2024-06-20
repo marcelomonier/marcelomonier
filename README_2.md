@@ -25,6 +25,15 @@ Experience in data engineering, data analysis, and machine learning with a Data 
 
 ---
 
+### Connect with me
+
+[<img align="left" alt="LinkedIn" width="100" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/marcelo-monier-jr-ba422944)
+[<img align="left" alt="Medium" width="100" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://medium.com/@marcelomonierdeveloper)
+<br />
+<br />
+
+---
+
 ### Certificates
 
 [<img align="left" alt="databrciks_fundamental" width="60" src="https://templates.images.credential.net/16509948849242752807044385742422.png" />](https://credentials.databricks.com/91c0c105-98ad-4a81-9b06-26552b157cd7)
