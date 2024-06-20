@@ -39,6 +39,8 @@ Experience in data engineering, data analysis, and machine learning with a Data 
 
 [<img align="left" alt="Docker" width="60" src="https://api.badgr.io/public/assertions/SpUKlcOuSESxFUoS4VlSzA/image" />](https://badgr.com/public/assertions/SpUKlcOuSESxFUoS4VlSzA?identity__email=marcelomonierdeveloper@gmail.com)
 
+[<img align="left" alt="Kubernets" width="60" src="https://api.badgr.io/public/assertions/7wkSG2a5SfeWopect2pwZA/image" />](https://badgr.com/public/assertions/7wkSG2a5SfeWopect2pwZA?identity__email=marcelomonierdeveloper@gmail.com)
+
 
 <br>
 <br />
