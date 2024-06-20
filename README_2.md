@@ -10,9 +10,12 @@
 - :technologist: Data Scientist and Co-founder at BetaDev
 - ⚡ Languages: fluent in English 🇺🇸 and Portuguese 🇧🇷
 - 🏋️ Workout every day!
-- - :technologist: Professor at [IFMA](https://portal.ifma.edu.br)
+- :technologist: Professor at [IFMA](https://portal.ifma.edu.br)
 - :notebook: I like to write about technology on [Linkedin](https://www.linkedin.com/in/marcelo-monier-jr-ba422944/) and [Medium](https://medium.com/@marcelomonierdeveloper)
 - :two_hearts: In love with Python, PySpark, Spark, SQL, DBT and Machine Learning
+
+<br />
+<br />
 
 Experience in data engineering, data analysis, and machine learning with a Data Science background. Having earned a master’s degree in Computer Science has provided me a solid foundation and a good intuition in Machine Learning and Statistical Analysis. My previous roles offer me excellent communication skills and a great understanding of business, consumer behavior, and strategic decision making.
 <br />
