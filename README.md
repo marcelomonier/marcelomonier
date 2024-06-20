@@ -7,7 +7,5 @@
 - :notebook: I like to write about technology on [Linkedin](https://www.linkedin.com/in/marcelo-monier-jr-ba422944/) and [Medium](https://medium.com/@marcelomonierdeveloper)
 - :two_hearts: In love with Python, PySpark, Spark, SQL, DBT and Machine Learning
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomonier&layout=compact&langs_count=8)
-![marcelomonier's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelomonier&show_icons=true)
 
 
