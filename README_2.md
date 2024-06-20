@@ -7,20 +7,14 @@
 
 ### :woman_technologist: About Me :
 
-- 🔭  I’m currently working @ Grupo Mateus as a Data Scientist
-- ⚡ Fun fact: I am trilingual - fluent in English 🇺🇸 and Portuguese 🇧🇷
+- :technologist: Data Scientist and Co-founder at BetaDev
+- ⚡ Languages: fluent in English 🇺🇸 and Portuguese 🇧🇷
 - 🏋️ Workout every day!
+- - :technologist: Professor at [IFMA](https://portal.ifma.edu.br)
+- :notebook: I like to write about technology on [Linkedin](https://www.linkedin.com/in/marcelo-monier-jr-ba422944/) and [Medium](https://medium.com/@marcelomonierdeveloper)
+- :two_hearts: In love with Python, PySpark, Spark, SQL, DBT and Machine Learning
 
 Experience in data engineering, data analysis, and machine learning with a Data Science background. Having earned a master’s degree in Computer Science has provided me a solid foundation and a good intuition in Machine Learning and Statistical Analysis. My previous roles offer me excellent communication skills and a great understanding of business, consumer behavior, and strategic decision making.
-<br />
-<br />
-
----
-
-### Connect with me
-
-[<img align="left" alt="LinkedIn" width="100" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/melanieseok-huashi)
-[<img align="left" alt="Medium" width="100" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://melaniesoek0120.medium.com)
 <br />
 <br />
 
