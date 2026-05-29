@@ -169,13 +169,6 @@ My mission is to combine **business strategy, artificial intelligence, and scala
 
 ---
 
-## Publications
-
-- Computational methodologies for detection & diagnosis of SARS-CoV-2 from medical images
-- Research projects involving AI and Computer Vision
-
----
-
 ## GitHub Analytics
 
 <div align="center">
