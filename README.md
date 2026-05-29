@@ -1,5 +1,5 @@
 
-<h1 align="center">Marcelo</h1>
+<h1 align="center">Marcelo Monier Jr.</h1>
 
 <p align="center">
   <strong>Senior Data Scientist · AI Engineer · Professor</strong><br>
