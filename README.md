@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Marcelo</h1>
 
 <p align="center">
@@ -208,4 +208,4 @@ My mission is to combine **business strategy, artificial intelligence, and scala
 - Forecasting
 - AI for Retail
 - Distributed Systems
-```
+
